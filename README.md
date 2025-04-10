@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Java, React, NodeJS**
 
-- 📫 How to reach me **ankitjaismzs@gmail@gmail.com**
+- 📫 How to reach me **ankitjaismzs@gmail.com**
 
 <br>
 <h3 align="left">Social:</h3>
